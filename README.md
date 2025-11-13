@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Mercedeh 👋  
+### Aspiring Researcher in Reinsurance • Risk Modelling • Data Science • AI
+
+Welcome to my GitHub profile!  
+I’m building **RiskLab**, a personal research journey where I explore:
+
+- Reinsurance analytics  
+- XL/CAT risk modelling  
+- Data science & Python  
+- AI-driven analytical tools  
+- Insurance risk frameworks  
+
+### 🔗 Links
+- **GitHub Projects:** https://github.com/mersedeh-risklab
+- **LinkedIn:** (لینک خودت)
+- **ORCID:** https://orcid.org/0009-0001-7813-2914  
+
+---
