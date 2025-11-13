@@ -24,7 +24,7 @@ I’m building **RiskLab**, a personal research journey where I explore:
 - XL/CAT risk modelling  
 - Data science & Python  
 - AI-driven analytical tools  
-- Insurance risk frameworks  
+
 
 ### 🔗 Links
 - **GitHub Projects:** https://github.com/mersedeh-risklab
