@@ -28,7 +28,7 @@ I’m building **RiskLab**, a personal research journey where I explore:
 
 ### 🔗 Links
 - **GitHub Projects:** https://github.com/mersedeh-risklab
-- **LinkedIn:** (لینک خودت)
+- **LinkedIn:** www.linkedin.com/in/mercedeh-firoozbakht-0580b5b4
 - **ORCID:** https://orcid.org/0009-0001-7813-2914  
 
 ---
